@@ -1,0 +1,6 @@
+# Lumen Bikes demo site (GitHub Pages)
+https://anolasco13.github.io/web-content-auditor/
+https://anolasco13.github.io/web-content-auditor/en/
+https://anolasco13.github.io/web-content-auditor/es/
+https://anolasco13.github.io/web-content-auditor/en/about.html
+https://anolasco13.github.io/web-content-auditor/es/about.html
