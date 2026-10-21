@@ -8,7 +8,7 @@ A Python command-line tool that audits multilingual web pages for content qualit
 
 Localized websites break in quiet ways. A translated page loses its `hreflang` return link, a `{{placeholder}}` ships unfilled, or an image goes out without alt text. Each issue is small, but together they hurt user experience, accessibility and search visibility. Checking by hand across many pages and languages is slow and easy to get wrong.
 
-This tool automates those checks so pages can be verified before and after launch.
+This tool automates those checks so pages can be verified before and after launch!
 
 ## What it checks
 
